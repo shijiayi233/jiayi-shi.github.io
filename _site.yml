@@ -1,0 +1,19 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Jiayi Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "About Me"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<js6177@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/shijiayi233/
+output:
+  html_document:
+    theme: flatly
+    css: style.css

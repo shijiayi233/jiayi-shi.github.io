@@ -1,0 +1,13 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jiayi's awesome website
+
+![]("info/me.jpg")
+
+<img src="info/me.jpg" style="width:55%">
